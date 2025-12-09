@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 for i in range(100):
     print(i)
+=======
+print("hello world") 
+>>>>>>> fearture1
